@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: 6BOSTAN_JOKE
+  m_EditorClassIdentifier: 
+  labels:
+  - text: LAUGH
+    nextScene: {fileID: 11400000, guid: df6a83e4eb3407746bdb0406df1e4355, type: 2}
+  - text: DONT LAUGH
+    nextScene: {fileID: 11400000, guid: 30248d7030290224d961ea0e93950d78, type: 2}

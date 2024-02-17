@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: TI_chose
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Drink Bear
+    nextScene: {fileID: 11400000, guid: 79bb3766deae9db45a5818de4227ea76, type: 2}
+  - text: Play Games
+    nextScene: {fileID: 11400000, guid: f95549bd15159d640bc8207ee3ef7fb7, type: 2}
+  - text: Sleep til Exams
+    nextScene: {fileID: 11400000, guid: 0f97e805691d30b4d8b3e21e39e0933b, type: 2}

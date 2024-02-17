@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: FAF_HOME_CHOICE
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Play Games
+    nextScene: {fileID: 11400000, guid: 6ccdb40ea01c9d64f9612287c4487ac1, type: 2}
+  - text: Watch motivational videous
+    nextScene: {fileID: 11400000, guid: 03019c14a92c03e4cb59468930531c85, type: 2}
+  - text: Do Homework
+    nextScene: {fileID: 11400000, guid: 122ee37445bcdfd4f8887f2a8ddce3db, type: 2}
